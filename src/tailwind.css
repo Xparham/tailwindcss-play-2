@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+
+@apply h-10 w-10;
+
+
+@tailwind utilities;
